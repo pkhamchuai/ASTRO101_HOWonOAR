@@ -1,0 +1,14 @@
+Astropy
+Subprocess.run
+Numpy
+Matplotlib
+Photutils
+Pyregion
+Scipy
+Reproject
+Astroquery
+STDPipe
+astroML
+Spectres
+extinction
+SEP
